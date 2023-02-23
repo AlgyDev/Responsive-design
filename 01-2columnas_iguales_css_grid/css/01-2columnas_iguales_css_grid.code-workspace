@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../02-2columnas_iguales_flexbox"
+		},
+		{
+			"path": "../../03-3columnas_iguales_css_grid"
+		},
+		{
+			"path": "../../04-3columnas_iguales_flexbox"
+		},
+		{
+			"path": "../../05-3columnas_css_grid"
+		},
+		{
+			"path": "../../06-3columnas_flexbox"
+		},
+		{
+			"path": "../../07-column_drop_css_grid"
+		},
+		{
+			"path": "../../08-column_drop_flexbox"
+		},
+		{
+			"path": "../../09-con_sidebar_css_grid"
+		},
+		{
+			"path": "../../10-con_sidebar_flexbox"
+		},
+		{
+			"path": "../../11-layout_shifter_css_grid"
+		},
+		{
+			"path": "../../12-layout_shifter_flexbox"
+		},
+		{
+			"path": "../../13-mostly_fluid"
+		},
+		{
+			"path": "../../14-tiny_tweaks"
+		}
+	]
+}
